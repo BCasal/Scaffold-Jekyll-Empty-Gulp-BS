@@ -13,6 +13,8 @@ Hay una tarea *sass* para procesar el archivo `.css` compilado por Jekyll,
 la tarea se ejecuta con el comando `$ gulp sass` y no está integrada en
 el compilado, hay que ejecutarla después de detener el comando `$ gulp`
 
+[**Descripción detallada de las tareas**](https://gist.github.com/BCasal/89e0a0dde82e04c64bf8e74babd0710e#file-jekyll-bs-js)
+
 Después de descargar/clonar:
 
 ```
