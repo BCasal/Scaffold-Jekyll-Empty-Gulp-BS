@@ -1,5 +1,7 @@
 # Scaffold Jekyll Empty - Gulp (Browser-Sync)
 
+[**DEMO**](http://bcasal.github.io/Scaffold-Jekyll-Empty-Gulp-BS/)
+
 El comando `$ gulp` ejecuta los mismos procesos que el comando `$ jekyll s`
 con una diferencia, el servidor local se monta con **Browser-Sync**.
 
@@ -10,6 +12,7 @@ necesarios, y minifica el contenido.
 Después de descargar/clonar:
 
 ```
+
 // Solo recien descargado/clonado
 
   // Primero instalar dependencias
