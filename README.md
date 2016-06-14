@@ -1,13 +1,17 @@
 # Scaffold Jekyll Empty - Gulp (Browser-Sync)
 
-[**DEMO**](http://bcasal.github.io/Scaffold-Jekyll-Empty-Gulp-BS/)
+Después de instalar las dependencias con `$ npm install` hay que ejecutar
+el comando `$ jekyll build` para hacer el primer complidao del sitio,
+después (y el resto de veces) ya se puede ejecutar el comando `$ gulp`
+para trabajar en el proyecto.
 
-El comando `$ gulp` ejecuta los mismos procesos que el comando `$ jekyll s`
-con una diferencia, el servidor local se monta con **Browser-Sync**.
+El comando `$ gulp` ejecuta los mismos procesos que el comando
+`$ jekyll s` con una diferencia, el servidor local se monta con
+*Browser-Sync*.
 
-Hay una tarea llamada *sass* para procesar el archivo *.css* compilado por
-**Jekyll** que, renombra el archivo como *archivo.min.css* añade los prefijos
-necesarios, y minifica el contenido.
+Hay una tarea *sass* para procesar el archivo `.css` compilado por Jekyll,
+la tarea se ejecuta con el comando `$ gulp sass` y no está integrada en
+el compilado, hay que ejecutarla después de detener el comando `$ gulp`
 
 Después de descargar/clonar:
 
