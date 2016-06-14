@@ -1,5 +1,7 @@
 
 
+# https://jekyllrb.com/docs/configuration/#default-configuration
+
 # Site
 title: Scaffold Jekyll Empty Gulp-BS
 description: > # this means to ignore newlines until "baseurl:"

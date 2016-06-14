@@ -1,4 +1,6 @@
-# www.robotstxt.org/
+
+
+# http://www.robotstxt.org/
 
 ### Permitir acceso
 User-agent: *
